@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Aarti Sawai
 
-<!--
-**aartisawai196-ai/aartisawai196-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer from India
 
-Here are some ideas to get you started:
+I am passionate about Machine Learning, Deep Learning, and Software Development. I enjoy building real-world applications using Python, Java, and Streamlit while continuously improving my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Python
+- Java
+- C & C++
+- HTML, CSS, JavaScript
+- PostgreSQL
+- Machine Learning
+- Deep Learning
+- Streamlit
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+❤️ Heart Disease Prediction
+
+🎓 Student Score Prediction
+
+🖼️ CIFAR-10 Image Classification
+
+☕ Cake Shop Management System
+
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning
+- OpenCV
+- Flask
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/aartisawai196-ai
+- LinkedIn: (Add your LinkedIn link)
+
+⭐ Thanks for visiting my profile!
