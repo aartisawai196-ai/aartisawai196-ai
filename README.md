@@ -28,8 +28,6 @@ I am passionate about Machine Learning, Deep Learning, and Software Development.
 
 🖼️ CIFAR-10 Image Classification
 
-☕ Cake Shop Management System
-
 ---
 
 ## 🌱 Currently Learning
@@ -37,6 +35,7 @@ I am passionate about Machine Learning, Deep Learning, and Software Development.
 - Deep Learning
 - OpenCV
 - Flask
+- Agentic AI
 - Data Structures & Algorithms
 
 ---
@@ -44,6 +43,6 @@ I am passionate about Machine Learning, Deep Learning, and Software Development.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/aartisawai196-ai
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/aarti-sawai-b27069344
 
 ⭐ Thanks for visiting my profile!
