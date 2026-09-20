@@ -10,7 +10,6 @@ I am passionate about Machine Learning, Deep Learning, and Software Development.
 
 - Python
 - Java
-- C & C++
 - HTML, CSS, JavaScript
 - PostgreSQL
 - Machine Learning
@@ -23,6 +22,8 @@ I am passionate about Machine Learning, Deep Learning, and Software Development.
 ## 📌 Featured Projects
 
 ❤️ Heart Disease Prediction
+
+🤖 Text Summarization
 
 🎓 Student Score Prediction
 
